@@ -114,8 +114,8 @@ Face-Recognition-Attendance-System/
 
 <h3>1️⃣ Clone the repository</h3>
 
-<pre><code>git clone https://github.com/your-username/face-recognition-attendance.git
-cd face-recognition-attendance
+<pre><code>git clone https://github.com/AmmarChhipa/Face-Recognition-attendance.git
+cd Face-Recognition-attendance
 </code></pre>
 
 <h3>2️⃣ Install dependencies</h3>
